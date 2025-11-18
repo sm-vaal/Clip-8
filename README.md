@@ -26,10 +26,11 @@ As simple as it gets. Place your ROMs in the executable's folder. Run the execut
 
 # CONTROLS
 Chip-8 uses a 4x4 keypad as inputs, here it's mapped like this:
-`
+
+```
       CHIP 8          KEYBOARD
       1 2 3 C         1 2 3 4
       4 5 6 D   ==>   Q W E R
       7 8 9 E         A S D F
       A 0 B F         Z X C V
-`
+```
